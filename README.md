@@ -7,4 +7,5 @@ A harmless **fake installer** that prints **realistic apt-like logs** for ~10 mi
 
 **Install:**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_GH_USER/fake-install-logger/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/joeoreh/fake-install-logger/main/install.sh | bash
+
