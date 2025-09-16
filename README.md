@@ -8,10 +8,9 @@
 A harmless **fake Linux installer** that prints **realistic `apt`-style logs** for about **10 minutes**.  
 
 Great for:
-- 🎥 Demo videos & terminal recordings  
-- 🖼️ Fake screenshots  
-- 🎓 Teaching Linux basics without touching the system  
-- 😅 Harmless fun  
+- Demo videos & terminal recordings  
+- Fake screenshots  
+- PRANK IDK
 
 ---
 
@@ -89,3 +88,4 @@ Example of fake logs running in the Linux console:
 **MIT License** – free to use, modify, and share.  
 
 Author: [@joeoreh](https://github.com/joeoreh)
+
