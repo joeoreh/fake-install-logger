@@ -18,6 +18,24 @@ Great for:
 
 Install in just 2 commands:
 
+
 ```bash
 curl -fsSL https://raw.githubusercontent.com/joeoreh/fake-install-logger/main/install.sh | bash
+
+```bash
 fake-install nginx git curl
+
+---
+
+### Features
+
+
+Runs for ~10 minutes (600s)
+Outputs 1 log per second → always looks busy
+Over 50 unique log messages (cycled per package)
+Fake percentage progress (0% → 100%)
+Safe: does not install or modify your system
+
+#### Example Output
+
+
